@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac32799ae84fe4b4f80f83c05f1ea668, type: 3}
+  m_Name: ShadesManager
+  m_EditorClassIdentifier: 
+  shades:
+  - {fileID: 2100000, guid: 65716873a36f35540ab5716424561c3a, type: 2}
+  - {fileID: 2100000, guid: adb9847f781754d4c826ce745932bb1a, type: 2}
+  - {fileID: 2100000, guid: 6dd06fa35126dea4888a00657dcb321c, type: 2}
+  - {fileID: 2100000, guid: 87203efaf608fa3488d04e65b8fd9be7, type: 2}
+  - {fileID: 2100000, guid: 487a41907d248334590e820da654de27, type: 2}
+  - {fileID: 2100000, guid: 15809cd34a85b7d42afb7246a293bac9, type: 2}
+  - {fileID: 2100000, guid: 6047c960dd9a98841aa3d57b0c859cb8, type: 2}
+  - {fileID: 2100000, guid: 3a7471d62d679a44bb45b352a46f024d, type: 2}

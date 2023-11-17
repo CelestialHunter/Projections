@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class PixelScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    [SerializeField]
+    private int shade;
+    
+    
     void Start()
     {
-        
     }
-
-    // Update is called once per frame
-    void Update()
+    public void SetShade(Material shade)
     {
-        
+        GetComponent<Renderer>().material = shade;
     }
 }
